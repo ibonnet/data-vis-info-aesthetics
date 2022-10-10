@@ -18,7 +18,7 @@ Link: https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Ti
 ### Visualize Quantities, Categories, and Summarized Data
 <i>This is worth 15% of the final grade.</i>
 
-Link:
+Link: https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Quantities
 
 ### Visualize Textual and Qualitative Data 
 <i>This is worth 15% of the final grade.</i>
