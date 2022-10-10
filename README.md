@@ -23,17 +23,15 @@ Link: https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Qu
 ### Visualize Textual and Qualitative Data 
 <i>This is worth 15% of the final grade.</i>
 
-
-<b>Description: </b>
+Link: https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Textual-Qualitative-Data
 
 ### Visualize Space
 <i>This is worth 15% of the final grade.</i>
 
-
-<b>Description: </b>
+Link: https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Space
 
 ## Final Project
 <i>This is worth 15% of the final grade.</i>
 
 
-<b>Description: </b>
+Link: https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Final-Project
