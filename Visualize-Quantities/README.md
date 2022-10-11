@@ -32,3 +32,10 @@ Through documentation, imagery, sketches, and/or any other means of expression, 
 3. adherence to a grid system (for both desktop and mobile)
 
 ### Answer
+
+Prototype 1:
+
+<img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/f487313a9e3a9b5c3a560e95738067d9c3ff32ef/Visualize-Quantities/Prototype1.png" height="500">
+
+Prototype 2:
+<img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/main/Visualize-Quantities/Prototype2.png" height="500">
