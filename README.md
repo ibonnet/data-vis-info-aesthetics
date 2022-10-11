@@ -9,6 +9,8 @@
 
 ## Assignments
 
+<i>Description:</i> Throughout the semester, there will be four homework assignments, each based on the content covered that week / module and building on the in-class exercises and workshops we will do. The brief for each assignment will be given that week and made available on Canvas. Each assignment is worth 15% of your grade, for a total of 60%. 
+
 ### Exercise 1: Visualize Time 
 
 <a href="https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Time">The assignmnent repository can be found here.</a>
@@ -27,5 +29,7 @@
 <a href="https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Space">The assignmnent repository can be found here.</a>
 
 ## Final Project
+
+<i>Description:</i> You will integrate the four visualization exercises into a coherent final project. 
 
 <a href="https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Final-Project">The assignmnent repository can be found here.</a>
