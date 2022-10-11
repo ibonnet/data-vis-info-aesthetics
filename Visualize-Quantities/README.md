@@ -33,20 +33,20 @@ Through documentation, imagery, sketches, and/or any other means of expression, 
 
 ### Answer: Prototype 1
 
-Functionality: The dots of all selected filters will appear. Because I have very little knowledge in coding, I will only focus in the main information: location, date and time. All additional information will appear after clicking on the location dot.
+<b>Functionality: </b>The dots of all selected filters will appear. Because I have very little knowledge in coding, I will only focus in the main information: location, date and time. All additional information will appear after clicking on the location dot.
 
-Divs / Components: Rows and columns for the calendar, SVG for the location dots, search bar for the Zip code, map from Google Earth, array of times and array of days.
+<b>Divs / Components: </b>Rows and columns for the calendar, SVG for the location dots, search bar for the Zip code, map from Google Earth, array of times and array of days.
 
 Here is a code for the grid with the calendar: https://observablehq.com/@ibonnet/prototype
 
-Grid system:
+<b>Grid system: </b>
 <img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/f487313a9e3a9b5c3a560e95738067d9c3ff32ef/Visualize-Quantities/Prototype1.png" height="300">
 
 ### Answer: Prototype 2
 
-Functionality: The dots of all selected filters will appear. When the user clicks on the location, the information for the meeting will appear.
+<b>Functionality:</b> The dots of all selected filters will appear. When the user clicks on the location, the information for the meeting will appear.
 
-Divs / Components: Rows and columns for the calendar, SVG for the location dots, search bar for the Zip code, map from Google Earth, array of times and array of days.
+<b>Divs / Components:</b> Rows and columns for the calendar, SVG for the location dots, search bar for the Zip code, map from Google Earth, array of times and array of days.
 
-Grid system:
+<b>Grid system: </b>
 <img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/main/Visualize-Quantities/Prototype2.png" height="300">
