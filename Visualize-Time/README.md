@@ -10,7 +10,7 @@ Select a data visualization that you feel does a good job at expressing TIME. Po
 
 "Conflict Urbanism: Colombia" is a project created by the Center for Spatial Research that explores data movements in Colombia since 1985. This animation goes through time showing the different lines of migration paths that Colombians did over the years, which is representative of the growing violence inside the country. The website also allows users to select a municipality, the date, gender, race, actor and events that are related to this migration. I am one of the millions of Venezuelans who were forced to flee the country because of the growing insecurity and repression in the country. Venezuela used to be a home for Colombian refugees, and is now the main nationality crossing the borders with Colombia, which hosts most of the diaspora. I really like this animation because it shows well the path that Colombians did over time to leave the cities, and on itself illustrate different events that were happening in the country.
 
-Link: https://conflicturbanismcolombia.com/applications/animation.htmlLinks to an external site.
+Link: https://conflicturbanismcolombia.com/applications/animation.html
 
 ## Bertin's graphic system
 
