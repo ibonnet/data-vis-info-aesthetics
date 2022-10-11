@@ -13,16 +13,16 @@
 
 ### Exercise 1: Visualize Time 
 
-<a href="https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Time">The assignmnent repository can be found here.</a>
+<img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/be2438882dbbe6ebb609da85cd2ac58cedb982e5/Visualize-Time/Movements-inside-Colombia-since-1985.png" height="300">
 
-<img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/be2438882dbbe6ebb609da85cd2ac58cedb982e5/Visualize-Time/Movements-inside-Colombia-since-1985.png" height="500">
+<a href="https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Time">The assignmnent repository can be found here.</a>
 
 
 ### Exercise 2: Visualize Quantities, Categories, and Summarized Data
 
-<a href="https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Quantities">The assignmnent repository can be found here.</a>
+<img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/f0d3b9142bc9a9f0913d81d9e864a317e4c633fd/Visualize-Time/Mapping-Time.png" height="300">
 
-<img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/f0d3b9142bc9a9f0913d81d9e864a317e4c633fd/Visualize-Time/Mapping-Time.png" height="500">
+<a href="https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Quantities">The assignmnent repository can be found here.</a>
 
 ### Exercise 3: Visualize Textual and Qualitative Data 
 
