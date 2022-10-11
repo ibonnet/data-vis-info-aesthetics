@@ -12,7 +12,7 @@ Every time he arrives home, Warren washes his hands seven times. He is not scare
 
 Warren washes his hands as he arrives home. “When you don’t feel good inside, you don’t feel good outside,” he said. “Prison is so dirty that I just feel like I have an accumulation of dirt.”
 
-<img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/f0d3b9142bc9a9f0913d81d9e864a317e4c633fd/Visualize-Time/Mapping-Time.png" height="500">
+<img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/f0d3b9142bc9a9f0913d81d9e864a317e4c633fd/Visualize-Time/Mapping-Time.png" height="300">
 
 Studies show that the inhumane conditions of solitary confinement lead to catastrophic effects on people's mental health. Despite effort to change the laws to ban long-term solitary confinement in New York, every other day, about nine percent of incarcerated people in the State are still locked by themselves in a cell. They can spend months or even years in a cell, deprived of any social interaction.
 
@@ -38,7 +38,7 @@ The dots of all selected filters will appear. Because I have very little knowled
 
 <img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/f487313a9e3a9b5c3a560e95738067d9c3ff32ef/Visualize-Quantities/Prototype1.png" height="300">
 
-Prototype 2:
+Prototype 2: The dots of all selected filters will appear. When the user clicks on the location, the information for the meeting will appear.
 
-The dots of all selected filters will appear. When the user clicks on the location, the information for the meeting will appear.
+
 <img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/main/Visualize-Quantities/Prototype2.png" height="300">
