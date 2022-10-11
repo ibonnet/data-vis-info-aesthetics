@@ -22,6 +22,9 @@
 
 <img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/f0d3b9142bc9a9f0913d81d9e864a317e4c633fd/Visualize-Time/Mapping-Time.png" height="300">
 
+<img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/main/Visualize-Quantities/Prototype2.png" height="300">
+
+
 <a href="https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Quantities">The assignmnent repository can be found here.</a>
 
 ### Exercise 3: Visualize Textual and Qualitative Data 
