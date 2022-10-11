@@ -40,3 +40,5 @@ To get started, here is the code from our SVG exercises in class: https://observ
 
 I've included all variables and numbers as we did last week, but the graph do not appear on the page. I am wondering whether this has something to do with the scale of the graph? What would be a good way to fix this so the scale can go from 1985 to 2015, and from 1,767 to 7,260,022?
 Link here: https://observablehq.com/d/1be2943b7bad6142
+
+<img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/0a8832639eda6cd4836152bd366be9a78cc7f83e/Visualize-Time/Movements-inside-Colombia-since-1985.png" height="500">
