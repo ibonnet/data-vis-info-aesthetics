@@ -10,27 +10,22 @@
 ## Assignments
 
 ### Exercise 1: Visualize Time 
-<i>This is worth 15% of the final grade.</i>
 
 <a href="https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Time">The assignmnent repository can be found here.</a>
 
 
 ### Exercise 2: Visualize Quantities, Categories, and Summarized Data
-<i>This is worth 15% of the final grade.</i>
 
 <a href="https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Quantities">The assignmnent repository can be found here.</a>
 
 ### Exercise 3: Visualize Textual and Qualitative Data 
-<i>This is worth 15% of the final grade.</i>
 
 <a href="https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Textual-Qualitative-Data">The assignmnent repository can be found here.</a>
 
 ### Exercise 4: Visualize Space
-<i>This is worth 15% of the final grade.</i>
 
 <a href="https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Visualize-Space">The assignmnent repository can be found here.</a>
 
 ## Final Project
-<i>This is worth 15% of the final grade.</i>
 
 <a href="https://github.com/ibonnet/data-vis-info-aesthetics/tree/main/Final-Project">The assignmnent repository can be found here.</a>
