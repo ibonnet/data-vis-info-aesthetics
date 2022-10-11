@@ -32,7 +32,7 @@ Based on Bertin's graphic system, here is how I interpret the visual I chose:
 ## Using SVG
 
 ### Description
-Use  SVGLinks to an external site. in ObservableLinks to an external site. (particularly circleLinks to an external site., lineLinks to an external site., and rectLinks to an external site. elements) to create a ROUGH sketch of the time based data visualization you analyzed with Bertin’s system and posted to Canvas last week. The expectation is a “stick figure” version, showing the core “marks” (points, lines, and areas) of the visualization. You may also incorporate visual variables and/or axes/labels, but this is not expected. 
+Use  SVG in Observable (particularly circle, line, and rect elements) to create a ROUGH sketch of the time based data visualization you analyzed with Bertin’s system and posted to Canvas last week. The expectation is a “stick figure” version, showing the core “marks” (points, lines, and areas) of the visualization. You may also incorporate visual variables and/or axes/labels, but this is not expected. 
 
 To get started, here is the code from our SVG exercises in class: https://observablehq.com/@aaronxhill/basicsvgLinks to an external site. 
 
