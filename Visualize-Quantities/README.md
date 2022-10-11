@@ -1,4 +1,4 @@
-# Visualize Quantities, Categories, and Summarized Data
+# Exercise 2: Visualize Quantities, Categories, and Summarized Data
 
 ### Description
 
