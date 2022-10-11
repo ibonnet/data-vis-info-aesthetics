@@ -37,58 +37,7 @@ Functionality: The dots of all selected filters will appear. Because I have very
 
 Divs / Components: Rows and columns for the calendar, SVG for the location dots, search bar for the Zip code, map from Google Earth, array of times and array of days.
 
-Here is a code for the grid with the calendar:
-
-<html>
-  <div class="container">
-  <div class="row">
-    <div class="col">
-      Monday
-    </div>
-    <div class="col">
-      Tuesday
-    </div>
-    <div class="col">
-      Wednesday
-    </div>
-    <div class="col">
-      Thursday
-    </div>
-    <div class="col">
-      Friday
-    </div>
-    <div class="col">
-      Saturday
-    </div>
-    <div class="col">
-      Sunday
-    </div>
-  </div>
-  <div class="row">
-    <div class="col">
-      <!-- 1 of 7 -->
-    </div>
-    <div class="col">
-     <!-- 2 of 7 -->
-    </div>
-    <div class="col">
-      <!-- 3 of 7 -->
-    </div>
-    <div class="col">
-      <!-- 4 of 7 -->
-    </div>
-    <div class="col">
-      <!-- 5 of 7 -->
-    </div>
-    <div class="col">
-      <!-- 6 of 7 -->
-    </div>
-    <div class="col">
-      <!-- 7 of 7 -->
-    </div>
-  </div>
-</div>
-</html>
+Here is a code for the grid with the calendar: https://observablehq.com/@ibonnet/prototype
 
 Grid system:
 <img src="https://github.com/ibonnet/data-vis-info-aesthetics/blob/f487313a9e3a9b5c3a560e95738067d9c3ff32ef/Visualize-Quantities/Prototype1.png" height="300">
